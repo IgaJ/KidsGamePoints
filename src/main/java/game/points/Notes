@@ -1,0 +1,8 @@
+Gameplay:
+// to organize players turns in a method (to pass: player color, player move - console/frame in a display?)
+// method to pick a place: A - F, 1 - 6, switch/loop
+
+Point:
+// convert field to local variable in the constructor - spr
+
+refaktoryzacja - zmniejszyć liczbę powtórzeń
