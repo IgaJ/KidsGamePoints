@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0d3a004-b808-4585-897a-2b1bf40d3b85" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/game/points/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/game/points/Point.java" afterDir="false" />
+    <list default="true" id="c0d3a004-b808-4585-897a-2b1bf40d3b85" name="Changes" comment="board and point drawing process ready">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/game/points/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/points/Display.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/game/points/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/points/Gameplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/game/points/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/game/points/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675769592948</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="board and point drawing process ready">
+      <created>1676472791600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676472791600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="board and point drawing process ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="board and point drawing process ready" />
   </component>
 </project>

@@ -23,9 +23,9 @@ public class Gameplay {
         g.drawLine(300 , 100, 300, 350);
         g.drawLine(350 , 100, 350, 350);*/
 
-        int boardSize = 5; // board size
-        int rectSize = 30;
-        int pointSize = 6;
+        int boardSize = 5;
+        int rectSize = 50;
+        int pointSize = 9;
         int startingPoint = (int) (Display.getWidth() * 0.333);
 
         for (int x = 0; x < boardSize; x++) {
@@ -35,10 +35,13 @@ public class Gameplay {
         }
         // to organize players turns in a method (to pass: player color, player move - console/frame in a display?)
         g.setColor(Color.blue);
-        g.fillRect(100, 100, pointSize, pointSize);
         g.fillRect(startingPoint-2, startingPoint-2, pointSize, pointSize); // -2 to place a point at the crosscut
 
         // method to pick a place: A - F, 1 - 6, switch/loop
+
+    }
+
+    public void play(){
 
     }
 }
